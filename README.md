@@ -1,6 +1,6 @@
 # Unit 17 | Visualizing Data with Leaflet
 
-![Production Ready: https://accacheung.github.io/Visualizing-Data-with-Leaflet/] (https://accacheung.github.io/Visualizing-Data-with-Leaflet/)
+Production Ready: https://accacheung.github.io/Visualizing-Data-with-Leaflet/
 
 ## Background
 
